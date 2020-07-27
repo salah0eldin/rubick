@@ -1,0 +1,2 @@
+# rubick
+rubick cube
